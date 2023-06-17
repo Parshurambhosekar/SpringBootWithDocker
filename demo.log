@@ -1,0 +1,3 @@
+2023-06-17 17:01:57.583  INFO 12588 --- [main] p.d.SpringBootWithDockerApplicationTests : Starting SpringBootWithDockerApplicationTests using Java 11.0.19 on DESKTOP-EL4DP8K with PID 12588 (started by HP in D:\Velocity JAVA DEVELOPMENT\SpringBoot\SpringBootWithDocker)
+2023-06-17 17:01:57.614  INFO 12588 --- [main] p.d.SpringBootWithDockerApplicationTests : No active profile set, falling back to 1 default profile: "default"
+2023-06-17 17:02:01.208  INFO 12588 --- [main] p.d.SpringBootWithDockerApplicationTests : Started SpringBootWithDockerApplicationTests in 4.401 seconds (JVM running for 6.688)
